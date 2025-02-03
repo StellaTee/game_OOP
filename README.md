@@ -58,4 +58,3 @@ This project is a modification for the game "Elden Ring," introducing new player
 ## Credits
 
 - Developed by Zhi Hui Tee, Yi Xuan Lim, Belvinjeet Davinder Mann.
-- Thanks to the community for support and feedback.
